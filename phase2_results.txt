@@ -1,0 +1,23 @@
+PHASE 2: EMBEDDINGS AND SEMANTIC SEARCH
+
+Query: How can I get my money back?
+
+SEMANTIC SEARCH RESULTS:
+0.482 - The customer requested a refund.
+0.446 - The buyer wants their money back.
+0.117 - The company provides health insurance.
+0.042 - Workers receive medical insurance.
+-0.003 - The office opens at 8 AM.
+-0.020 - Employees can work remotely on Fridays.
+-0.035 - Staff members may work from home on Friday.
+-0.121 - Employees must wear their ID cards.
+
+WORD OVERLAP RESULTS:
+1 matching words - The buyer wants their money back.
+1 matching words - Employees can work remotely on Fridays.
+0 matching words - The customer requested a refund.
+0 matching words - Staff members may work from home on Friday.
+0 matching words - The company provides health insurance.
+0 matching words - Workers receive medical insurance.
+0 matching words - The office opens at 8 AM.
+0 matching words - Employees must wear their ID cards.

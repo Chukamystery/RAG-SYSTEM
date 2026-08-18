@@ -1,0 +1,7 @@
+Expense Policy
+
+Employees can request reimbursement for approved business expenses.
+
+Expense claims must be submitted within 30 days of the expense.
+
+Receipts must be provided for all expense claims.

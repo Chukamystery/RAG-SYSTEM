@@ -1,0 +1,7 @@
+Security Policy
+
+Employees must use strong passwords for company accounts.
+
+Company passwords must not be shared with other people.
+
+Employees must report suspected security incidents to the IT team immediately.
